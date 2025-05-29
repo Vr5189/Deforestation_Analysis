@@ -24,7 +24,7 @@ def authenticate_ee():
     try:
         # Try to initialize without explicit authentication
         ee.Authenticate()
-        ee.Initialize(project='ee-deepthisalunkeysl')  # Use your project ID
+        ee.Initialize(project='ee-vr5189')  # Use your project ID
         return True
     except Exception as e:
         st.error(f"Authentication Error: {str(e)}")
