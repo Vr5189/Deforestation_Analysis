@@ -34,7 +34,7 @@ kiwisolver==1.4.8
 MarkupSafe==3.0.2
 matplotlib==3.10.1
 narwhals==1.33.0
-numpy>=2.1.0,<2.3.0
+numpy>=2.1.0
 opencv-python==4.10.0.84
 opencv-python-headless==4.10.0.84
 packaging==24.2
